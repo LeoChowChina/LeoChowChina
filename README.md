@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 🌱 I'm now mainly using html/css/javascript, React, Vue, webpack and their ecosystems.
 - 📫 How to reach me: leo.chow.china@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeoChowChina&count_private=true&show_icons=true&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api?username=LeoChowChina&count_private=true&show_icons=true&theme=tokyonight">
